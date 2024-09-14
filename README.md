@@ -40,7 +40,7 @@ while True:
 ```
 
 ## OUTPUT
-![Screenshot (103)](https://github.com/user-attachments/assets/78051cc6-96e0-4ca3-9f46-b4f8f14d7d4c)
+
 
 ![Screenshot (104)](https://github.com/user-attachments/assets/e144ffcd-aa18-4f54-b1ce-ab0510a827b0)
 
